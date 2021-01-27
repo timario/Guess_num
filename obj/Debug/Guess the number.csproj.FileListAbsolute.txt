@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Guess the number\Guess the number\bin\Debug\Guess the number.exe.config
+C:\Users\User\source\repos\Guess the number\Guess the number\bin\Debug\Guess the number.exe
+C:\Users\User\source\repos\Guess the number\Guess the number\bin\Debug\Guess the number.pdb
+C:\Users\User\source\repos\Guess the number\Guess the number\obj\Debug\Guess the number.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Guess the number\Guess the number\obj\Debug\Guess_the_number.Form1.resources
+C:\Users\User\source\repos\Guess the number\Guess the number\obj\Debug\Guess_the_number.Properties.Resources.resources
+C:\Users\User\source\repos\Guess the number\Guess the number\obj\Debug\Guess the number.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Guess the number\Guess the number\obj\Debug\Guess the number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Guess the number\Guess the number\obj\Debug\Guess the number.exe
+C:\Users\User\source\repos\Guess the number\Guess the number\obj\Debug\Guess the number.pdb
+C:\Users\User\source\repos\Guess the number\Guess the number\obj\Debug\Guess_the_number.Form2.resources
